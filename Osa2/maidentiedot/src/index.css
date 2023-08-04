@@ -1,0 +1,14 @@
+body {
+    background-color: #413e3a;
+  }
+  
+  .main {
+    background-color: #ece2e2;
+    width: 350px;
+    height: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  }
+  
