@@ -1,2 +1,1 @@
-Fullstack Open kurssin palautukset Osat 0,1,2,4,5,6.
-HUOM. Osa 3 omassa repositoriossa.
+Fullstack Open kurssin palautukset Osat 0-2 ja 4-7 HUOM. Osa 3 omassa repositoriossa.
