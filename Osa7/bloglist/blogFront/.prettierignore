@@ -1,0 +1,8 @@
+node_modules
+cypress
+.babelrc
+.env
+.eslintignore
+.eslintrc.cjs
+.gitignore
+cypress.config.js

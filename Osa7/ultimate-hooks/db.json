@@ -1,0 +1,64 @@
+{
+  "notes": [
+    {
+      "content": "the app state is in redux store",
+      "important": true,
+      "id": 1
+    },
+    {
+      "content": "state changes are made with actions",
+      "important": false,
+      "id": 2
+    },
+    {
+      "content": "Sum Ting Wong",
+      "important": true,
+      "id": 3
+    },
+    {
+      "content": "huoh",
+      "important": true,
+      "id": 4
+    },
+    {
+      "content": "Tähä jotain",
+      "important": true,
+      "id": 5
+    },
+    {
+      "content": "mitä tapahtuu",
+      "important": true,
+      "id": 6
+    },
+    {
+      "content": "Hieno muistiinpano lol",
+      "id": 7
+    },
+    {
+      "content": "adsf",
+      "id": 8
+    }
+  ],
+  "persons": [
+    {
+      "name": "Tom Valedro",
+      "number": "050-23523525",
+      "id": 543
+    },
+    {
+      "name": "Kuka Soitti",
+      "number": "020202",
+      "id": 544
+    },
+    {
+      "name": "asd",
+      "number": "2452345234525",
+      "id": 545
+    },
+    {
+      "name": "sdfg",
+      "number": "sdfgsg",
+      "id": 546
+    }
+  ]
+}
